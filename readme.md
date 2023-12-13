@@ -5,4 +5,4 @@ This version is not using the latest build of Bad Time Simulator & isn't planned
 
 Installation
 ------------
-The web version can be played [here](https://kckarnige.is-a.dev/BadTimeRevamped), and the downloadable versions can be found [here](https://github.com/sscb360/BadTimeReimagined/releases).
+The web version can be played [here](https://kckarnige.is-a.dev/BadTimeRevamped), and the downloadable versions can be found [here](https://github.com/sscb360/Bad-Time-Simulator-Reimagined/releases).
